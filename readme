@@ -1,0 +1,7 @@
+sample url call
+
+http://api.openweathermap.org/data/2.5/weather?q=edison,us&APPID=9e1682bbea28fc8a3465ba65eefe75a3
+
+json was vonverted on this website 
+
+https://wtools.io/convert-json-to-sql-queries
