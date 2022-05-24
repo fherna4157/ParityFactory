@@ -10,3 +10,4 @@ https://wtools.io/convert-json-to-sql-queries
 the date times from the API are stored as integers they can de converted to dates using the following code
 
 select dateadd(second, cast (dt as int ),'1970-01-01') as [date]  from weather 
+
